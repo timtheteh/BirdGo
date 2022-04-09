@@ -7,6 +7,8 @@
 ## What is BirdGO?
 BirdGO is a companion app to both budding and experienced birdwatchers alike! Use BirdGO to track recent bird sightings, share your own sightings, and see predictions for the most likely birds in sectors.
 
+https://user-images.githubusercontent.com/76463517/162572773-56370263-a61a-4795-90d8-09cc2fb02f93.mp4
+
 # Functions
 
 1. **Fully functional and interactive map**
