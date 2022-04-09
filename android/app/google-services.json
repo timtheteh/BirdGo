@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "424498221590",
+    "firebase_url": "https://birdgo-3f47e-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "birdgo-3f47e",
+    "storage_bucket": "birdgo-3f47e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424498221590:android:16da8a75536842295ddb37",
+        "android_client_info": {
+          "package_name": "com.bryan.testflutterfire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoLQ8gjnpHC66xXh1hwSEJOcgMkVMxV-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424498221590:android:44bc861afe9e4ff55ddb37",
+        "android_client_info": {
+          "package_name": "io.birdgo.birdgo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoLQ8gjnpHC66xXh1hwSEJOcgMkVMxV-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

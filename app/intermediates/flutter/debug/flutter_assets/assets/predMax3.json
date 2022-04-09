@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Pacific Reef Heron; Egretta sacra",
+    "rarity": 2,
+    "quadPred": 0.500001911772415,
+    "lat": 1.39666666666,
+    "lng": 103.88,
+    "quad": 1
+  },
+  {
+    "name": "Plaintive Cuckoo; Cacomantis merulinus",
+    "rarity": 2,
+    "quadPred": 0.50390625,
+    "lat": 1.39666666666,
+    "lng": 103.88,
+    "quad": 1
+  },
+  {
+    "name": "Little Grebe; Tachybaptus ruficollis",
+    "rarity": 3,
+    "quadPred": 0.9418202638626099,
+    "lat": 1.39666666666,
+    "lng": 103.88,
+    "quad": 1
+  },
+  {
+    "name": "Common Greenshank; Tringa nebularia",
+    "rarity": 1,
+    "quadPred": 0.005,
+    "lat": 1.39666666666,
+    "lng": 103.72,
+    "quad": 2
+  },
+  {
+    "name": "Common Redshank; Tringa totanus",
+    "rarity": 1,
+    "quadPred": 0.06298828125,
+    "lat": 1.39666666666,
+    "lng": 103.72,
+    "quad": 2
+  },
+  {
+    "name": "Eastern Yellow Wagtail; Motacilla tschutschensis",
+    "rarity": 1,
+    "quadPred": 0.0001220703125,
+    "lat": 1.39666666666,
+    "lng": 103.72,
+    "quad": 2
+  },
+  {
+    "name": "Little Grebe; Tachybaptus ruficollis",
+    "rarity": 3,
+    "quadPred": 0.03149417042732239,
+    "lat": 1.33666666666,
+    "lng": 103.72,
+    "quad": 3
+  },
+  {
+    "name": "Pacific Reef Heron; Egretta sacra",
+    "rarity": 2,
+    "quadPred": 0.017822265625,
+    "lat": 1.33666666666,
+    "lng": 103.72,
+    "quad": 3
+  },
+  {
+    "name": "Plaintive Cuckoo; Cacomantis merulinus",
+    "rarity": 2,
+    "quadPred": 0.0628090356476605,
+    "lat": 1.33666666666,
+    "lng": 103.72,
+    "quad": 3
+  },
+  {
+    "name": "Indian Cuckoo; Cuculus micropterus",
+    "rarity": 2,
+    "quadPred": 0.8911743292119354,
+    "lat": 1.33666666666,
+    "lng": 103.88,
+    "quad": 4
+  },
+  {
+    "name": "Common Hill Myna; Gracula religiosa",
+    "rarity": 2,
+    "quadPred": 0.9142514476552606,
+    "lat": 1.33666666666,
+    "lng": 103.88,
+    "quad": 4
+  },
+  {
+    "name": "Crow-billed Drongo; Dicrurus annectens",
+    "rarity": 2,
+    "quadPred": 0.93605059501715,
+    "lat": 1.33666666666,
+    "lng": 103.88,
+    "quad": 4
+  }
+]

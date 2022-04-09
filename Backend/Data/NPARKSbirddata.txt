@@ -1,0 +1,487 @@
+Family Phasianidae
+1	King Quail	Excalfactoria chinensis	A	U	RB
+2	Red Junglefowl	Gallus gallus	A	C	RB
+Family Anatidae
+3	Wandering Whistling Duck	Dendrocygna arcuata	C	U	IRB
+4	Lesser Whistling Duck ##	Dendrocygna javanica	A	U	RB
+5	Cotton Pygmy Goose ##	Nettapus coromandelianus	A	R	R(B)
+6	Garganey	Spatula querquedula	A	R	WV
+7	Northern Shoveler	Spatula clypeata	A	R	WV
+8	Gadwall	Mareca strepera	A	R	V
+9	Eurasian Wigeon	Mareca penelope	A	R	V
+10	Northern Pintail	Anas acuta	A	R	WV PM
+11	Tufted Duck	Aythya fuligula	A	R	V
+Family Caprimulgidae
+12	Malaysian Eared Nightjar ##	Lyncornis temminckii	A	R	R(B)
+13	Grey Nightjar	Caprimulgus jotaka	A	U	WV PM
+14	Large-tailed Nightjar	Caprimulgus macrurus	A	C	RB
+15	Savanna Nightjar	Caprimulgus affinis	A	C	RB
+Family Hemiprocnidae
+16	Grey-rumped Treeswift	Hemiprocne longipennis	A	U	RB
+17	Whiskered Treeswift	Hemiprocne comata	A	R	NBV
+Family Apodidae
+18	Plume-toed Swiftlet ##	Collocalia affinis	A	U	RB
+19	Black-nest Swiftlet	Aerodramus maximus	A	C	RB
+20	Germain's Swiftlet	Aerodramus germani	A	C	RB
+21	Silver-rumped Spinetail	Rhaphidura leucopygialis	A	R	NBV
+22	White-throated Needletail	Hirundapus caudacutus	A	U	PM WV
+23	Silver-backed Needletail	Hirundapus cochinchinensis	A	R	WV PM
+24	Brown-backed Needletail	Hirundapus giganteus	A	U	WV PM
+25	Asian Palm Swift	Cypsiurus balasiensis	A	U	RB
+26	Common Swift	Apus apus	A	R	V
+27	Pacific Swift	Apus pacificus	A	C	PM WV
+28	House Swift	Apus nipalensis	A	U	RB
+Family Cuculidae
+29	Greater Coucal	Centropus sinensis	A	U	RB
+30	Lesser Coucal	Centropus bengalensis	A	C	RB
+31	Chestnut-bellied Malkoha ##*	Phaenicophaeus sumatranus	A	U	RB
+32	Chestnut-winged Cuckoo	Clamator coromandus	A	U	PM WV
+33	Jacobin Cuckoo	Clamator jacobinus	A	R	V
+34	Asian Koel	Eudynamys scolopaceus	A	C	RB WV
+35	Asian Emerald Cuckoo	Chrysococcyx maculatus	A	R	WV
+36	Violet Cuckoo ##	Chrysococcyx xanthorhynchus	A	U	RB WV
+37	Horsfield's Bronze Cuckoo	Chrysococcyx basalis	A	R	WV
+38	Little Bronze Cuckoo	Chrysococcyx minutillus	A	C	RB
+39	Banded Bay Cuckoo	Cacomantis sonneratii	A	U	RB
+40	Plaintive Cuckoo	Cacomantis merulinus	A	U	RB
+41	Rusty-breasted Cuckoo ##	Cacomantis sepulcralis	A	U	RB
+42	Square-tailed Drongo-Cuckoo ##	Surniculus lugubris	A	U	RB WV
+43	Large Hawk-Cuckoo	Hierococcyx sparverioides	A	U	WV PM
+44	Malaysian Hawk-Cuckoo	Hierococcyx fugax	A	U	NBV
+45	Hodgson's Hawk-Cuckoo	Hierococcyx nisicolor	A	U	WV
+46	Indian Cuckoo	Cuculus micropterus	A	U	WV PM
+47	Himalayan Cuckoo	Cuculus saturatus	A	R	PM
+Family Columbidae
+48	Rock Dove	Columba livia	C	A	IRB
+49	Oriental Turtle Dove	Streptopelia orientalis	A	R	V
+50	Red Collared Dove	Streptopelia tranquebarica	C	U	IRB
+51	Spotted Dove	Spilopelia chinensis	A	A	RB
+52	Common Emerald Dove	Chalcophaps indica	A	U	RB
+53	Zebra Dove	Geopelia striata	A	C	RB
+54	Cinnamon-headed Green Pigeon *	Treron fulvicollis	A	R	NBV
+55	Little Green Pigeon	Treron olax	A	R	NBV
+56	Pink-necked Green Pigeon	Treron vernans	A	A	RB
+57	Orange-breasted Green Pigeon	Treron bicinctus	A	R	NBV
+58	Thick-billed Green Pigeon ##	Treron curvirostra	A	U	RB
+59	Jambu Fruit Dove *	Ptilinopus jambu	A	U	R(B) NBV
+60	Green Imperial Pigeon ##	Ducula aenea	A	U	RB
+61	Mountain Imperial Pigeon	Ducula badia	A	R	NBV
+62	Pied Imperial Pigeon	Ducula bicolor	A/C	U	IR(B) NBV
+Family Heliornithidae
+63	Masked Finfoot**	Heliopais personatus	A	R	NBV
+Family Rallidae
+64	Red-legged Crake ##	Rallina fasciata	A	U	RB WV
+65	Slaty-legged Crake	Rallina eurizonoides	A	R	WV PM
+66	Slaty-breasted Rail	Lewinia striata	A	U	RB
+67	White-breasted Waterhen	Amaurornis phoenicurus	A	C	RB WV
+68	Baillon's Crake	Zapornia pusilla	A	U	WV PM
+69	Ruddy-breasted Crake #	Zapornia fusca	A	U	RB WV
+70	Band-bellied Crake *	Zapornia paykullii	A	R	V
+71	White-browed Crake	Poliolimnas cinereus	A	U	RB
+72	Watercock	Gallicrex cinerea	A	U	WV
+73	Grey-headed Swamphen #	Porphyrio poliocephalus	A	R	RB
+74	Common Moorhen	Gallinula chloropus	A	U	RB
+75	Eurasian Coot	Fulica atra	A	R	WV
+Family Podicipedidae
+76	Little Grebe ##	Tachybaptus ruficollis	A	R	RB
+Family Turnicidae
+77	Barred Buttonquail	Turnix suscitator	A	U	RB
+Family Burhinidae
+78	Beach Stone-curlew ##*	Esacus magnirostris	A	R	R(B)
+Family Recurvirostridae
+79	Black-winged Stilt	Himantopus himantopus	A	R	WV PM MB
+80	Pied Stilt	Himantopus leucocephalus	A	R	MB
+Family Charadriidae
+81	Grey-headed Lapwing	Vanellus cinereus	A	R	PM WV
+82	Red-wattled Lapwing #	Vanellus indicus	A	C	RB
+83	Pacific Golden Plover	Pluvialis fulva	A	C	WV PM
+84	Grey Plover	Pluvialis squatarola	A	U	WV PM
+85	Common Ringed Plover	Charadrius hiaticula	A	R	PM
+86	Little Ringed Plover	Charadrius dubius	A	U	WV PM
+87	Kentish Plover	Charadrius alexandrinus	A	U	WV PM
+88	White-faced Plover	Charadrius dealbatus	A	U	WV PM
+89	Malaysian Plover ##*	Charadrius peronii	A	U	RB
+90	Lesser Sand Plover	Charadrius mongolus	A	C	WV PM
+91	Greater Sand Plover	Charadrius leschenaultii	A	U	WV PM
+92	Oriental Plover	Charadrius veredus	A	R	PM
+Family Rostratulidae
+93	Greater Painted-snipe ##	Rostratula benghalensis	A	R	RB
+Family Jacanidae
+94	Pheasant-tailed Jacana	Hydrophasianus chirurgus	A	R	WV PM
+Family Scolopacidae
+95	Eurasian Whimbrel	Numenius phaeopus	A	C	WV PM
+96	Little Curlew	Numenius minutus	A	R	V
+97	Far Eastern Curlew **	Numenius madagascariensis	A	R	PM
+98	Eurasian Curlew *	Numenius arquata	A	R	WV PM
+99	Bar-tailed Godwit *	Limosa lapponica	A	U	WV PM
+100	Black-tailed Godwit *	Limosa limosa	A	U	WV PM
+101	Ruddy Turnstone	Arenaria interpres	A	U	WV PM
+102	Great Knot **	Calidris tenuirostris	A	R	PM
+103	Red Knot *	Calidris canutus	A	R	WV
+104	Ruff	Calidris pugnax	A	R	WV
+105	Broad-billed Sandpiper	Calidris falcinellus	A	U	WV PM
+106	Sharp-tailed Sandpiper	Calidris acuminata	A	R	V
+107	Curlew Sandpiper *	Calidris ferruginea	A	U	WV PM
+108	Temminck's Stint	Calidris temminckii	A	R	PM
+109	Long-toed Stint	Calidris subminuta	A	U	WV PM
+110	Spoon-billed Sandpiper **	Calidris pygmaea	A	R	WV
+111	Red-necked Stint **	Calidris ruficollis	A	U	WV PM
+112	Sanderling	Calidris alba	A	U	WV PM
+113	Little Stint	Calidris minuta	A	R	V
+114	Pectoral Sandpiper	Calidris melanotos	A	R	V
+115	Asian Dowitcher *	Limnodromus semipalmatus	A	R	WV PM
+116	Pin-tailed Snipe	Gallinago stenura	A	C	WV
+117	Swinhoe's Snipe	Gallinago megala	A	R	WV
+118	Common Snipe	Gallinago gallinago	A	C	WV
+119	Terek Sandpiper	Xenus cinereus	A	U	WV PM
+120	Red-necked Phalarope	Phalaropus lobatus	A	R	PM
+121	Common Sandpiper	Actitis hypoleucos	A	C	WV PM
+122	Green Sandpiper	Tringa ochropus	A	R	WV PM
+123	Grey-tailed Tattler *	Tringa brevipes	A	R	WV PM
+124	Common Redshank	Tringa totanus	A	C	WV PM
+125	Marsh Sandpiper	Tringa stagnatilis	A	U	WV PM
+126	Wood Sandpiper	Tringa glareola	A	U	WV PM
+127	Spotted Redshank	Tringa erythropus	A	R	WV
+128	Common Greenshank	Tringa nebularia	A	C	WV PM
+129	Nordmann's Greenshank **	Tringa guttifer	A	R	WV
+Family Glareolidae
+130	Oriental Pratincole	Glareola maldivarum	A	U	PM
+131	Small Pratincole	Glareola lactea	A	R	PM
+Family Laridae
+132	Brown-headed Gull	Chroicocephalus brunnicephalus	A	R	PM
+133	Black-headed Gull	Chroicocephalus ridibundus	A	U	WV PM
+134	Gull-billed Tern	Gelochelidon nilotica	A	R	WV PM
+135	Caspian Tern	Hydroprogne caspia	A	R	WV
+136	Greater Crested Tern	Thalasseus bergii	A	C	WV NBV
+137	Lesser Crested Tern	Thalasseus bengalensis	A	C	WV
+138	Little Tern##	Sternula albifrons	A	C	RB WV
+139	Aleutian Tern	Onychoprion aleuticus	A	U	PM
+140	Bridled Tern	Onychoprion anaethetus	A	U	RB NBV
+141	Black-naped Tern ##	Sterna sumatrana	A	U	RB
+142	Common Tern	Sterna hirundo	A	U	WV PM
+143	Whiskered Tern	Chlidonias hybrida	A	U	WV PM
+144	White-winged Tern	Chlidonias leucopterus	A	C	WV PM
+Family Stercorariidae
+145	Parasitic Jaeger	Stercorarius parasiticus	A	R	V
+146	Long-tailed Jaeger	Stercorarius longicaudus	A	R	V
+Family Hydrobatidae
+147	Swinhoe's Storm Petrel *	Oceanodroma monorhis	A	U	PM
+Family Procellariidae
+148	Short-tailed Shearwater	Ardenna tenuirostris	A	R	V
+Family Ciconiidae
+149	Asian Openbill	Anastomus oscitans	A	R	NBV
+150	Lesser Adjutant **	Leptoptilos javanicus	A	R	NBV
+Family Fregatidae
+151	Lesser Frigatebird	Fregata ariel	A	R	NBV
+Family Sulidae
+152	Red-footed Booby	Sula sula	A	R	NBV
+153	Brown Booby	Sula leucogaster	A	R	NBV
+Family Anhingidae
+154	Oriental Darter *	Anhinga melanogaster	A	R	NBV
+Family Threskiornithidae
+155	Glossy Ibis	Plegadis falcinellus	A	R	NBV
+Family Ardeidae
+156	Yellow Bittern	Ixobrychus sinensis	A	C	RB WV
+157	Von Schrenck's Bittern	Ixobrychus eurhythmus	A	U	WV
+158	Cinnamon Bittern	Ixobrychus cinnamomeus	A	U	RB WV
+159	Black Bittern	Ixobrychus flavicollis	A	U	PM WV
+160	Malayan Night Heron	Gorsachius melanolophus	A	U	WV PM
+161	Black-crowned Night Heron	Nycticorax nycticorax	A	U	RB
+162	Striated Heron	Butorides striata	A	C	RB WV
+163	Indian Pond Heron	Ardeola grayii	A	R	WV
+164	Chinese Pond Heron	Ardeola bacchus	A	C	WV
+165	Javan Pond Heron	Ardeola speciosa	A	U	NBV
+166	Eastern Cattle Egret	Bubulcus coromandus	A/C	C	IR(B) NBV WV
+167	Grey Heron	Ardea cinerea	A	C	RB
+168	Great-billed Heron ##	Ardea sumatrana	A	U	RB
+169	Purple Heron##	Ardea purpurea	A	U	RB
+170	Great Egret	Ardea alba	A	C	NBV WV
+171	Intermediate Egret	Ardea intermedia	A	U	NBV WV
+172	Little Egret	Egretta garzetta	A	C	NBV WV
+173	Pacific Reef Heron	Egretta sacra	A	U	R(B)
+174	Chinese Egret **	Egretta eulophotes	A	R	WV
+Family Pandionidae
+175	Western Osprey	Pandion haliaetus	A	C	NBV
+Family Accipitridae
+176	Black-winged Kite	Elanus caeruleus	A	U	RB
+177	Crested Honey Buzzard	Pernis ptilorhynchus	A	C	PM WV NBV
+178	Jerdon's Baza	Aviceda jerdoni	A	U	WV PM
+179	Black Baza	Aviceda leuphotes	A	C	PM WV
+180	Himalayan Vulture *	Gyps himalayensis	A	R	NBV
+181	Crested Serpent Eagle ##	Spilornis cheela	A	R	R(B) WV
+182	Short-toed Snake Eagle	Circaetus gallicus	A	R	PM
+183	Bat Hawk	Macheiramphus alcinus	A	R	NBV
+184	Changeable Hawk-Eagle #	Nisaetus cirrhatus	A	C	RB
+185	Rufous-bellied Eagle	Lophotriorchis kienerii	A	R	WV
+186	Greater Spotted Eagle **	Clanga clanga	A	R	WV
+187	Booted Eagle	Hieraaetus pennatus	A	U	WV
+188	Steppe Eagle **	Aquila nipalensis	A	R	WV
+189	Eastern Imperial Eagle **	Aquila heliaca	A	R	WV
+190	Crested Goshawk#	Accipiter trivirgatus	A	U	RB
+191	Shikra	Accipiter badius	A	R	V
+192	Chinese Sparrowhawk	Accipiter soloensis	A	U	PM WV
+193	Japanese Sparrowhawk	Accipiter gularis	A	C	PM WV
+194	Besra	Accipiter virgatus	A	R	PM
+195	Eurasian Sparrowhawk	Accipiter nisus	A	R	PM
+196	Eastern Marsh Harrier	Circus spilonotus	A	U	WV
+197	Pied Harrier	Circus melanoleucos	A	R	WV
+198	Black Kite	Milvus migrans	A	R	WV
+199	Brahminy Kite	Haliastur indus	A	C	RB
+200	White-bellied Sea Eagle	Haliaeetus leucogaster	A	C	RB
+201	Grey-headed Fish Eagle ##*	Haliaeetus ichthyaetus	A	U	RB
+202	Grey-faced Buzzard	Butastur indicus	A	U	PM
+203	Common Buzzard	Buteo buteo	A	U	WV
+Family Tytonidae
+204	Eastern Barn Owl	Tyto javanica	A	U	RB
+Family Strigidae
+205	Sunda Scops Owl	Otus lempiji	A	C	RB
+206	Oriental Scops Owl	Otus sunia	A	R	WV PM
+207	Barred Eagle-owl ##	Bubo sumatranus	A	R	RB
+208	Buffy Fish Owl##	Ketupa ketupu	A	U	RB
+209	Spotted Wood Owl ##	Strix seloputo	A	U	RB
+210	Brown Wood Owl ##	Strix leptogrammica	A	R	RB
+211	Brown Hawk-Owl	Ninox scutulata	A	C	RB
+212	Northern Boobook	Ninox japonica	A	R	PM
+213	Short-eared Owl	Asio flammeus	A	R	WV PM
+Family Bucerotidae
+214	Oriental Pied Hornbill	Anthracoceros albirostris	A/C	C	IRB RB
+215	Black Hornbill *	Anthracoceros malayanus	A	R	NBV
+Family Coraciidae
+216	Oriental Dollarbird	Eurystomus orientalis	A	C	RB WV
+Family Alcedinidae
+217	Stork-billed Kingfisher	Pelargopsis capensis	A	U	RB
+218	Ruddy Kingfisher ##	Halcyon coromanda	A	U	RB WV
+219	White-throated Kingfisher	Halcyon smyrnensis	A	C	RB
+220	Black-capped Kingfisher	Halcyon pileata	A	U	WV PM
+221	Collared Kingfisher	Todiramphus chloris	A	A	RB
+222	Blue-eared Kingfisher ##	Alcedo meninting	A	U	RB
+223	Common Kingfisher	Alcedo atthis	A	C	WV
+224	Oriental Dwarf Kingfisher	Ceyx erithaca	A	U	WV PM
+225	Pied Kingfisher	Ceryle rudis	A	R	V
+Family Meropidae
+226	Blue-tailed Bee-eater	Merops philippinus	A	C	WV
+227	Blue-throated Bee-eater	Merops viridis	A	C	MB WV
+Family Megalaimidae
+228	Lineated Barbet	Psilopogon lineatus	C	C	IRB
+229	Red-crowned Barbet ##*	Psilopogon rafflesii	A	U	RB
+230	Coppersmith Barbet	Psilopogon haemacephalus	A	C	RB
+Family Picidae
+231	Sunda Pygmy Woodpecker	Yungipicus moluccensis	A	C	RB
+232	White-bellied Woodpecker ##	Dryocopus javensis	A	R	R(B) NBV
+233	Banded Woodpecker	Chrysophlegma miniaceum	A	C	RB
+234	Crimson-winged Woodpecker	Picus puniceus	A	R	NBV
+235	Laced Woodpecker	Picus vittatus	A	C	RB
+236	Common Flameback	Dinopium javanense	A	C	RB
+237	Rufous Woodpecker	Micropternus brachyurus	A	U	RB
+238	Buff-rumped Woodpecker	Meiglyptes tristis	A	R	NBV
+239	Great Slaty Woodpecker	Mulleripicus pulverulentus	A	R	NBV
+Family Falconidae
+240	Lesser Kestrel	Falco naumanni	A	R	V
+241	Common Kestrel	Falco tinnunculus	A	U	WV
+242	Amur Falcon	Falco amurensis	A	R	V
+243	Eurasian Hobby	Falco subbuteo	A	R	V
+244	Peregrine Falcon	Falco peregrinus	A	U	WV NBV
+Family Cacatuidae
+245	Tanimbar Corella *	Cacatua goffiniana	C	C	IRB
+246	Yellow-crested Cockatoo **	Cacatua sulphurea	C	U	IRB
+Family Psittaculidae
+247	Blue-rumped Parrot ##*	Psittinus cyanurus	A	U	R(B)
+248	Red-breasted Parakeet *	Psittacula alexandri	C	C	IRB
+249	Long-tailed Parakeet *	Psittacula longicauda	A	C	RB
+250	Rose-ringed Parakeet	Psittacula krameri	C	C	IRB
+251	Coconut Lorikeet	Trichoglossus haematodus	C	U	IRB
+252	Blue-crowned Hanging Parrot	Loriculus galgulus	A	C	RB
+Family Eurylaimidae
+253	Black-and-red Broadbill	Cymbirhynchus macrorhynchos	A	R	NBV
+Family Calyptomenidae
+254	Green Broadbill	Calyptomena viridis	A	R	NBV
+Family Pittidae
+255	Hooded Pitta	Pitta sordida	A	U	WV PM
+256	Fairy Pitta **	Pitta nympha	A	R	V
+257	Blue-winged Pitta	Pitta moluccensis	A	U	WV PM MB
+258	Mangrove Pitta ##*	Pitta megarhyncha	A	U	RB
+Family Acanthizidae
+259	Golden-bellied Gerygone	Gerygone sulphurea	A	C	RB
+Family Vangidae
+260	Black-winged Flycatcher-shrike	Hemipus hirundinaceus	A	R	NBV
+261	Large Woodshrike	Tephrodornis virgatus	A	R	NBV
+Family Aegithinidae
+262	Common Iora	Aegithina tiphia	A	C	RB
+Family Campephagidae
+263	Scarlet Minivet ##	Pericrocotus speciosus	A	R	RB
+264	Ashy Minivet	Pericrocotus divaricatus	A	C	WV PM
+265	Pied Triller	Lalage nigra	A	C	RB
+266	Lesser Cuckooshrike ##	Lalage fimbriata	A	R	R(B)
+Family Pachycephalidae
+267	Mangrove Whistler ##	Pachycephala cinerea	A	R	RB
+Family Laniidae
+268	Tiger Shrike	Lanius tigrinus	A	C	WV PM
+269	Brown Shrike	Lanius cristatus	A	C	WV PM
+270	Long-tailed Shrike	Lanius schach	A	U	RB
+Family Vireonidae
+271	White-bellied Erpornis	Erpornis zantholeuca	A	R	NBV
+Family Oriolidae
+272	Black-naped Oriole	Oriolus chinensis	A	A	RB WV
+Family Dicruridae
+273	Black Drongo	Dicrurus macrocercus	A	R	WV PM
+274	Ashy Drongo	Dicrurus leucophaeus	A	R	WV
+275	Crow-billed Drongo	Dicrurus annectens	A	U	WV PM
+276	Hair-crested Drongo	Dicrurus hottentottus	A	R	V
+277	Greater Racket-tailed Drongo	Dicrurus paradiseus	A	C	RB
+Family Rhipiduridae
+278	Malaysian Pied Fantail	Rhipidura javanica	A	C	RB
+Family Monarchidae
+279	Black-naped Monarch ##	Hypothymis azurea	A	R	R(B)
+280	Indian Paradise Flycatcher	Terpsiphone paradisi	A	R	V
+281	Blyth's Paradise Flycatcher	Terpsiphone affinis	A	U	PM WV
+282	Amur Paradise Flycatcher	Terpsiphone incei	A	U	PM WV
+283	Japanese Paradise Flycatcher *	Terpsiphone atrocaudata	A	R	PM
+Family Corvidae
+284	House Crow	Corvus splendens	C	C	IRB
+285	Large-billed Crow	Corvus macrorhynchos	A	U	RB
+Family Paridae
+286	Japanese Tit	Parus minor	A	R	V
+Family Alaudidae
+287	Eurasian Skylark	Alauda arvensis	A	R	V
+Family Pycnonotidae
+288	Straw-headed Bulbul ##**	Pycnonotus zeylanicus	A	U	RB
+289	Black-and-white Bulbul *	Microtarsus melanoleucos	A	R	NBV
+290	Black-headed Bulbul ##	Brachypodius melanocephalos	A	R	RB
+291	Black-crested Bulbul	Rubigula flaviventris	C	U	IRB
+292	Red-whiskered Bulbul	Pycnonotus jocosus	C	U	IRB
+293	Sooty-headed Bulbul	Pycnonotus aurigaster	C	U	IRB
+294	Yellow-vented Bulbul	Pycnonotus goiavier	A	A	RB
+295	Olive-winged Bulbul	Pycnonotus plumosus	A	C	RB
+296	Cream-vented Bulbul #	Pycnonotus simplex	A	U	RB
+297	Asian Red-eyed Bulbul ##	Pycnonotus brunneus	A	U	RB
+298	Buff-vented Bulbul ##*	Iole crypta	A	R	R(B)
+299	Streaked Bulbul *	Ixos malaccensis	A	R	NBV
+300	Cinereous Bulbul	Hemixos cinereus	A	U	NBV
+Family Hirundinidae
+301	Sand Martin	Riparia riparia	A	U	WV PM
+302	Barn Swallow	Hirundo rustica	A	A	WV PM
+303	Pacific Swallow	Hirundo tahitica	A	C	RB
+304	Asian House Martin	Delichon dasypus	A	R	PM
+305	Red-rumped Swallow	Cecropis daurica	A	U	PM WV
+Family Phylloscopidae
+306	Yellow-browed Warbler	Phylloscopus inornatus	A	R	PM WV
+307	Dusky Warbler	Phylloscopus fuscatus	A	R	V
+308	Eastern Crowned Warbler	Phylloscopus coronatus	A	C	WV PM
+309	Sakhalin Leaf Warbler	Phylloscopus borealoides	A	R	WV
+310	Arctic Warbler	Phylloscopus borealis	A	C	WV PM
+Family Acrocephalidae
+311	Oriental Reed Warbler	Acrocephalus orientalis	A	C	WV
+312	Black-browed Reed Warbler	Acrocephalus bistrigiceps	A	U	WV
+313	Booted Warbler	Iduna caligata	A	R	V
+Family Locustellidae
+314	Pallas's Grasshopper Warbler	Helopsaltes certhiola	A	C	WV PM
+315	Lanceolated Warbler	Locustella lanceolata	A	U	WV PM
+Family Cisticolidae
+316	Zitting Cisticola	Cisticola juncidis	A	C	RB
+317	Yellow-bellied Prinia	Prinia flaviventris	A	C	RB
+318	Common Tailorbird	Orthotomus sutorius	A	C	RB
+319	Dark-necked Tailorbird	Orthotomus atrogularis	A	C	RB
+320	Rufous-tailed Tailorbird	Orthotomus sericeus	A	U	RB
+321	Ashy Tailorbird	Orthotomus ruficeps	A	C	RB
+Family Timaliidae
+322	Chestnut-winged Babbler ##	Cyanoderma erythropterum	A	U	RB
+323	Pin-striped Tit-babbler	Mixornis gularis	A	C	RB
+Family Pellorneidae
+324	Abbott's Babbler	Malacocincla abbotti	A	U	RB
+325	Moustached Babbler ##	Malacopteron magnirostre	A	R	RB
+326	Short-tailed Babbler *	Pellorneum malaccense	A	C	RB
+327	White-chested Babbler ##*	Pellorneum rostratum	A	R	RB
+Family Leiotrichidae
+328	White-crested Laughingthrush	Garrulax leucolophus	C	C	IRB
+329	Chinese Hwamei	Garrulax canorus	C	R	IRB
+Family Zosteropidae
+330	Swinhoe's White-eye	Zosterops simplex	C	C	IRB
+Family Irenidae
+331	Asian Fairy-bluebird #	Irena puella	A	U	RB
+Family Sittidae
+332	Velvet-fronted Nuthatch	Sitta frontalis	A	R	NBV
+Family Sturnidae
+333	Asian Glossy Starling	Aplonis panayensis	A	A	RB
+334	Common Hill Myna #	Gracula religiosa	A	U	RB
+335	Crested Myna	Acridotheres cristatellus	C	R	IRB
+336	Javan Myna **	Acridotheres javanicus	C	A	IRB
+337	Common Myna	Acridotheres tristis	A	C	RB
+338	Black-winged Starling **	Acridotheres melanopterus	C	R	IRB
+339	Red-billed Starling	Spodiopsar sericeus	A	R	PM
+340	White-cheeked Starling	Spodiopsar cineraceus	A	R	V
+341	Daurian Starling	Agropsar sturninus	A	C	WV PM
+342	Chestnut-cheeked Starling	Agropsar philippensis	A	R	V
+343	White-shouldered Starling	Sturnia sinensis	A	U	WV PM
+344	Brahminy Starling	Sturnia pagodarum	A	R	WV
+345	Rosy Starling	Pastor roseus	A	R	WV
+Family Turdidae
+346	Orange-headed Thrush	Geokichla citrina	A	U	WV
+347	Siberian Thrush	Geokichla sibirica	A	U	WV PM
+348	Chinese Blackbird	Turdus mandarinus	A	R	V
+349	Eyebrowed Thrush	Turdus obscurus	A	U	PM WV
+Family Muscicapidae
+350	Oriental Magpie-Robin ##	Copsychus saularis	A	U	RB
+351	White-rumped Shama ##	Copsychus malabaricus	A/C	U	RB IRB
+352	Grey-streaked Flycatcher	Muscicapa griseisticta	A	R	V
+353	Dark-sided Flycatcher	Muscicapa sibirica	A	U	WV PM
+354	Asian Brown Flycatcher	Muscicapa dauurica	A	C	WV PM
+355	Brown-streaked Flycatcher	Muscicapa williamsoni	A	R	NBV
+356	Ferruginous Flycatcher	Muscicapa ferruginea	A	U	WV PM
+357	Chinese Blue Flycatcher	Cyornis glaucicomans	A	R	V
+358	Mangrove Blue Flycatcher ##	Cyornis rufigastra	A	R	RB
+359	Brown-chested Jungle Flycatcher **	Cyornis brunneatus	A	U	WV PM
+360	Blue-and-white Flycatcher	Cyanoptila cyanomelana	A	R	PM WV
+361	Zappey's Flycatcher	Cyanoptila cumatilis	A	R	PM WV
+362	Verditer Flycatcher	Eumyias thalassinus	A	R	NBV
+363	Siberian Blue Robin	Larvivora cyane	A	C	PM WV
+364	Yellow-rumped Flycatcher	Ficedula zanthopygia	A	U	PM WV
+365	Narcissus Flycatcher	Ficedula narcissina	A	R	V
+366	Green-backed Flycatcher	Ficedula elisae	A	R	WV PM
+367	Mugimaki Flycatcher	Ficedula mugimaki	A	U	PM
+368	Taiga Flycatcher	Ficedula albicilla	A	R	V
+369	Daurian Redstart	Phoenicurus auroreus	A	R	V
+370	Blue Rock Thrush	Monticola solitarius	A	R	PM
+371	White-throated Rock Thrush	Monticola gularis	A	R	WV PM
+372	Stejneger's Stonechat	Saxicola stejnegeri	A	R	WV PM
+Family Chloropseidae
+373	Greater Green Leafbird ##**	Chloropsis sonnerati	A	U	R(B)
+374	Lesser Green Leafbird ##*	Chloropsis cyanopogon	A	R	R(B)
+375	Blue-winged Leafbird #	Chloropsis cochinchinensis	A	U	R(B)
+Family Dicaeidae
+376	Scarlet-breasted Flowerpecker *	Prionochilus thoracicus	A	R	NBV
+377	Thick-billed Flowerpecker	Dicaeum agile	A	R	NBV
+378	Yellow-vented Flowerpecker ##	Dicaeum chrysorrheum	A	R	R(B)
+379	Orange-bellied Flowerpecker	Dicaeum trigonostigma	A	C	RB
+380	Scarlet-backed Flowerpecker	Dicaeum cruentatum	A	C	RB
+Family Nectariniidae
+381	Ruby-cheeked Sunbird	Chalcoparia singalensis	A	R	NBV
+382	Brown-throated Sunbird	Anthreptes malacensis	A	C	RB
+383	Van Hasselt's Sunbird	Leptocoma brasiliana	A	C	RB
+384	Copper-throated Sunbird #	Leptocoma calcostetha	A	U	RB
+385	Olive-backed Sunbird	Cinnyris jugularis	A	C	RB
+386	Crimson Sunbird	Aethopyga siparaja	A	C	RB
+387	Little Spiderhunter	Arachnothera longirostra	A	U	RB
+388	Thick-billed Spiderhunter ##	Arachnothera crassirostris	A	R	R(B)
+389	Yellow-eared Spiderhunter ##	Arachnothera chrysogenys	A	R	R(B)
+Family Passeridae
+390	House Sparrow	Passer domesticus	C	R	IRB
+391	Eurasian Tree Sparrow	Passer montanus	A	C	RB
+Family Ploceidae
+392	Streaked Weaver	Ploceus manyar	C	R	IRB
+393	Baya Weaver	Ploceus philippinus	A	U	RB
+Family Estrildidae
+394	Red Avadavat	Amandava amandava	C	U	IRB
+395	White-rumped Munia ##	Lonchura striata	A	R	RB
+396	Javan Munia	Lonchura leucogastroides	C	U	IRB
+397	Scaly-breasted Munia	Lonchura punctulata	A	C	RB
+398	Chestnut Munia	Lonchura atricapilla	A	U	RB
+399	White-headed Munia	Lonchura maja	A	U	RB
+Family Motacillidae
+400	Forest Wagtail	Dendronanthus indicus	A	U	WV PM
+401	Eastern Yellow Wagtail	Motacilla tschutschensis	A	C	WV
+402	Citrine Wagtail	Motacilla citreola	A	R	WV
+403	Grey Wagtail	Motacilla cinerea	A	U	WV PM
+404	White Wagtail	Motacilla alba	A	U	WV
+405	Paddyfield Pipit	Anthus rufulus	A	C	RB
+406	Olive-backed Pipit	Anthus hodgsoni	A	R	V
+407	Red-throated Pipit	Anthus cervinus	A	U	WV

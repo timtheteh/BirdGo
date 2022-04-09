@@ -1,0 +1,214 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="io.birdgo.birdgo"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="31" />
+10    <!--
+11         Flutter needs it to communicate with the running application
+12         to allow setting breakpoints, to provide hot reload, etc.
+13    -->
+14    <uses-permission android:name="android.permission.INTERNET" />
+14-->/Users/timothyteh/Desktop/All_GitHub_Projects/BirdGo/birdgo/android/app/src/debug/AndroidManifest.xml:6:5-66
+14-->/Users/timothyteh/Desktop/All_GitHub_Projects/BirdGo/birdgo/android/app/src/debug/AndroidManifest.xml:6:22-64
+15    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+15-->[:location] /Users/timothyteh/Desktop/All_GitHub_Projects/BirdGo/birdgo/build/location/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-81
+15-->[:location] /Users/timothyteh/Desktop/All_GitHub_Projects/BirdGo/birdgo/build/location/intermediates/library_manifest/debug/AndroidManifest.xml:7:22-78
+16    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" /> <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
+16-->[:location] /Users/timothyteh/Desktop/All_GitHub_Projects/BirdGo/birdgo/build/location/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-79
+16-->[:location] /Users/timothyteh/Desktop/All_GitHub_Projects/BirdGo/birdgo/build/location/intermediates/library_manifest/debug/AndroidManifest.xml:8:22-76
+17    <!-- <uses-sdk android:minSdkVersion="14" /> -->
+18    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+18-->[com.google.firebase:firebase-firestore:24.1.0] /Users/timothyteh/.gradle/caches/transforms-2/files-2.1/194d5be88c5e24bb9d08f12c228fe63c/jetified-firebase-firestore-24.1.0/AndroidManifest.xml:13:5-79
+18-->[com.google.firebase:firebase-firestore:24.1.0] /Users/timothyteh/.gradle/caches/transforms-2/files-2.1/194d5be88c5e24bb9d08f12c228fe63c/jetified-firebase-firestore-24.1.0/AndroidManifest.xml:13:22-76
+19
+20    <uses-feature
+20-->[com.google.android.gms:play-services-maps:17.0.0] /Users/timothyteh/.gradle/caches/transforms-2/files-2.1/071f32299edee94b84cbdef97955621b/jetified-play-services-maps-17.0.0/AndroidManifest.xml:26:5-28:35
+21        android:glEsVersion="0x00020000"
+21-->[com.google.android.gms:play-services-maps:17.0.0] /Users/timothyteh/.gradle/caches/transforms-2/files-2.1/071f32299edee94b84cbdef97955621b/jetified-play-services-maps-17.0.0/AndroidManifest.xml:27:9-41
+22        android:required="true" />
+22-->[com.google.android.gms:play-services-maps:17.0.0] /Users/timothyteh/.gradle/caches/transforms-2/files-2.1/071f32299edee94b84cbdef97955621b/jetified-play-services-maps-17.0.0/AndroidManifest.xml:28:9-32
+23
+24    <application
+25        android:name="android.app.Application"
+26        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+26-->[androidx.core:core:1.6.0] /Users/timothyteh/.gradle/caches/transforms-2/files-2.1/14b93615368c2249f1830e26ca064ab5/core-1.6.0/AndroidManifest.xml:24:18-86
+27        android:debuggable="true"
+28        android:icon="@mipmap/ic_launcher"
+29        android:label="birdgo" >
+30        <activity
+31            android:name="com.example.birdgo.MainActivity"
+32            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+33            android:exported="true"
+34            android:hardwareAccelerated="true"
+35            android:launchMode="singleTop"
+36            android:theme="@style/LaunchTheme"
+37            android:windowSoftInputMode="adjustResize" >
+38
+39            <!--
+40                 Specifies an Android theme to apply to this Activity as soon as
+41                 the Android process has started. This theme is visible to the user
+42                 while the Flutter UI initializes. After that, this theme continues
+43                 to determine the Window background behind the Flutter UI.
+44            -->
+45            <meta-data
+46                android:name="io.flutter.embedding.android.NormalTheme"
+47                android:resource="@style/NormalTheme" />
+48
+49            <intent-filter>
+50                <action android:name="android.intent.action.MAIN" />
+51
+52                <category android:name="android.intent.category.LAUNCHER" />
+53            </intent-filter>
+54        </activity>
+55        <!--
+56             Don't delete the meta-data below.
+57             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
+58        -->
+59        <meta-data
+60            android:name="flutterEmbedding"
+61            android:value="2" />
+62
+63        <service
+63-->[:firebase_storage] /Users/timothyteh/Desktop/All_GitHub_Projects/BirdGo/birdgo/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
+64            android:name="com.google.firebase.components.ComponentDiscoveryService"
+64-->[:firebase_storage] /Users/timothyteh/Desktop/All_GitHub_Projects/BirdGo/birdgo/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:8:18-89
+65            android:directBootAware="true"
+65-->[com.google.firebase:firebase-common:20.1.0] /Users/timothyteh/.gradle/caches/transforms-2/files-2.1/b25e52f5739b5665d39d607baa2467f6/jetified-firebase-common-20.1.0/AndroidManifest.xml:35:13-43
+66            android:exported="false" >
+66-->[com.google.firebase:firebase-firestore:24.1.0] /Users/timothyteh/.gradle/caches/transforms-2/files-2.1/194d5be88c5e24bb9d08f12c228fe63c/jetified-firebase-firestore-24.1.0/AndroidManifest.xml:19:13-37
+67            <meta-data
+67-->[:firebase_storage] /Users/timothyteh/Desktop/All_GitHub_Projects/BirdGo/birdgo/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+68                android:name="com.google.firebase.components:io.flutter.plugins.firebase.storage.FlutterFirebaseAppRegistrar"
+68-->[:firebase_storage] /Users/timothyteh/Desktop/All_GitHub_Projects/BirdGo/birdgo/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-126
+69                android:value="com.google.firebase.components.ComponentRegistrar" />
+69-->[:firebase_storage] /Users/timothyteh/Desktop/All_GitHub_Projects/BirdGo/birdgo/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+70            <meta-data
+70-->[:cloud_firestore] /Users/timothyteh/Desktop/All_GitHub_Projects/BirdGo/birdgo/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+71                android:name="com.google.firebase.components:io.flutter.plugins.firebase.firestore.FlutterFirebaseFirestoreRegistrar"
+71-->[:cloud_firestore] /Users/timothyteh/Desktop/All_GitHub_Projects/BirdGo/birdgo/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-134
+72                android:value="com.google.firebase.components.ComponentRegistrar" />
+72-->[:cloud_firestore] /Users/timothyteh/Desktop/All_GitHub_Projects/BirdGo/birdgo/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+73            <meta-data
+73-->[:firebase_database] /Users/timothyteh/Desktop/All_GitHub_Projects/BirdGo/birdgo/build/firebase_database/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+74                android:name="com.google.firebase.components:io.flutter.plugins.firebase.database.FlutterFirebaseAppRegistrar"
+74-->[:firebase_database] /Users/timothyteh/Desktop/All_GitHub_Projects/BirdGo/birdgo/build/firebase_database/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-127
+75                android:value="com.google.firebase.components.ComponentRegistrar" />
+75-->[:firebase_database] /Users/timothyteh/Desktop/All_GitHub_Projects/BirdGo/birdgo/build/firebase_database/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+76            <meta-data
+76-->[:firebase_core] /Users/timothyteh/Desktop/All_GitHub_Projects/BirdGo/birdgo/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+77                android:name="com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar"
+77-->[:firebase_core] /Users/timothyteh/Desktop/All_GitHub_Projects/BirdGo/birdgo/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-124
+78                android:value="com.google.firebase.components.ComponentRegistrar" />
+78-->[:firebase_core] /Users/timothyteh/Desktop/All_GitHub_Projects/BirdGo/birdgo/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+79            <meta-data
+79-->[com.google.firebase:firebase-firestore:24.1.0] /Users/timothyteh/.gradle/caches/transforms-2/files-2.1/194d5be88c5e24bb9d08f12c228fe63c/jetified-firebase-firestore-24.1.0/AndroidManifest.xml:20:13-22:85
+80                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
+80-->[com.google.firebase:firebase-firestore:24.1.0] /Users/timothyteh/.gradle/caches/transforms-2/files-2.1/194d5be88c5e24bb9d08f12c228fe63c/jetified-firebase-firestore-24.1.0/AndroidManifest.xml:21:17-111
+81                android:value="com.google.firebase.components.ComponentRegistrar" />
+81-->[com.google.firebase:firebase-firestore:24.1.0] /Users/timothyteh/.gradle/caches/transforms-2/files-2.1/194d5be88c5e24bb9d08f12c228fe63c/jetified-firebase-firestore-24.1.0/AndroidManifest.xml:22:17-82
+82            <meta-data
+82-->[com.google.firebase:firebase-storage:20.0.1] /Users/timothyteh/.gradle/caches/transforms-2/files-2.1/a732609d39140ed999dd3f02f1a8340e/jetified-firebase-storage-20.0.1/AndroidManifest.xml:33:13-35:85
+83                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
+83-->[com.google.firebase:firebase-storage:20.0.1] /Users/timothyteh/.gradle/caches/transforms-2/files-2.1/a732609d39140ed999dd3f02f1a8340e/jetified-firebase-storage-20.0.1/AndroidManifest.xml:34:17-107
+84                android:value="com.google.firebase.components.ComponentRegistrar" />
+84-->[com.google.firebase:firebase-storage:20.0.1] /Users/timothyteh/.gradle/caches/transforms-2/files-2.1/a732609d39140ed999dd3f02f1a8340e/jetified-firebase-storage-20.0.1/AndroidManifest.xml:35:17-82
+85            <meta-data
+85-->[com.google.firebase:firebase-database:20.0.4] /Users/timothyteh/.gradle/caches/transforms-2/files-2.1/3aaec8cccfc1e6786d61a6bda7fb7f75/jetified-firebase-database-20.0.4/AndroidManifest.xml:32:13-34:85
+86                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+86-->[com.google.firebase:firebase-database:20.0.4] /Users/timothyteh/.gradle/caches/transforms-2/files-2.1/3aaec8cccfc1e6786d61a6bda7fb7f75/jetified-firebase-database-20.0.4/AndroidManifest.xml:33:17-109
+87                android:value="com.google.firebase.components.ComponentRegistrar" />
+87-->[com.google.firebase:firebase-database:20.0.4] /Users/timothyteh/.gradle/caches/transforms-2/files-2.1/3aaec8cccfc1e6786d61a6bda7fb7f75/jetified-firebase-database-20.0.4/AndroidManifest.xml:34:17-82
+88        </service>
+89
+90        <provider
+90-->[:image_picker_android] /Users/timothyteh/Desktop/All_GitHub_Projects/BirdGo/birdgo/build/image_picker_android/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-16:20
+91            android:name="io.flutter.plugins.imagepicker.ImagePickerFileProvider"
+91-->[:image_picker_android] /Users/timothyteh/Desktop/All_GitHub_Projects/BirdGo/birdgo/build/image_picker_android/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-82
+92            android:authorities="io.birdgo.birdgo.flutter.image_provider"
+92-->[:image_picker_android] /Users/timothyteh/Desktop/All_GitHub_Projects/BirdGo/birdgo/build/image_picker_android/intermediates/library_manifest/debug/AndroidManifest.xml:10:13-74
+93            android:exported="false"
+93-->[:image_picker_android] /Users/timothyteh/Desktop/All_GitHub_Projects/BirdGo/birdgo/build/image_picker_android/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-37
+94            android:grantUriPermissions="true" >
+94-->[:image_picker_android] /Users/timothyteh/Desktop/All_GitHub_Projects/BirdGo/birdgo/build/image_picker_android/intermediates/library_manifest/debug/AndroidManifest.xml:12:13-47
+95            <meta-data
+95-->[:image_picker_android] /Users/timothyteh/Desktop/All_GitHub_Projects/BirdGo/birdgo/build/image_picker_android/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-15:75
+96                android:name="android.support.FILE_PROVIDER_PATHS"
+96-->[:image_picker_android] /Users/timothyteh/Desktop/All_GitHub_Projects/BirdGo/birdgo/build/image_picker_android/intermediates/library_manifest/debug/AndroidManifest.xml:14:17-67
+97                android:resource="@xml/flutter_image_picker_file_paths" />
+97-->[:image_picker_android] /Users/timothyteh/Desktop/All_GitHub_Projects/BirdGo/birdgo/build/image_picker_android/intermediates/library_manifest/debug/AndroidManifest.xml:15:17-72
+98        </provider>
+99
+100        <activity
+100-->[:url_launcher_android] /Users/timothyteh/Desktop/All_GitHub_Projects/BirdGo/birdgo/build/url_launcher_android/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-11:74
+101            android:name="io.flutter.plugins.urllauncher.WebViewActivity"
+101-->[:url_launcher_android] /Users/timothyteh/Desktop/All_GitHub_Projects/BirdGo/birdgo/build/url_launcher_android/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-74
+102            android:exported="false"
+102-->[:url_launcher_android] /Users/timothyteh/Desktop/All_GitHub_Projects/BirdGo/birdgo/build/url_launcher_android/intermediates/library_manifest/debug/AndroidManifest.xml:10:13-37
+103            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+103-->[:url_launcher_android] /Users/timothyteh/Desktop/All_GitHub_Projects/BirdGo/birdgo/build/url_launcher_android/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-71
+104
+105        <service
+105-->[:location] /Users/timothyteh/Desktop/All_GitHub_Projects/BirdGo/birdgo/build/location/intermediates/library_manifest/debug/AndroidManifest.xml:11:9-15:56
+106            android:name="com.lyokone.location.FlutterLocationService"
+106-->[:location] /Users/timothyteh/Desktop/All_GitHub_Projects/BirdGo/birdgo/build/location/intermediates/library_manifest/debug/AndroidManifest.xml:12:13-71
+107            android:enabled="true"
+107-->[:location] /Users/timothyteh/Desktop/All_GitHub_Projects/BirdGo/birdgo/build/location/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-35
+108            android:exported="false"
+108-->[:location] /Users/timothyteh/Desktop/All_GitHub_Projects/BirdGo/birdgo/build/location/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-37
+109            android:foregroundServiceType="location" />
+109-->[:location] /Users/timothyteh/Desktop/All_GitHub_Projects/BirdGo/birdgo/build/location/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-53
+110
+111        <uses-library
+111-->[androidx.window:window:1.0.0-beta04] /Users/timothyteh/.gradle/caches/transforms-2/files-2.1/cea45e25bbe77c9713c39e234ccfd7bd/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
+112            android:name="androidx.window.extensions"
+112-->[androidx.window:window:1.0.0-beta04] /Users/timothyteh/.gradle/caches/transforms-2/files-2.1/cea45e25bbe77c9713c39e234ccfd7bd/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
+113            android:required="false" />
+113-->[androidx.window:window:1.0.0-beta04] /Users/timothyteh/.gradle/caches/transforms-2/files-2.1/cea45e25bbe77c9713c39e234ccfd7bd/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
+114        <uses-library
+114-->[androidx.window:window:1.0.0-beta04] /Users/timothyteh/.gradle/caches/transforms-2/files-2.1/cea45e25bbe77c9713c39e234ccfd7bd/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
+115            android:name="androidx.window.sidecar"
+115-->[androidx.window:window:1.0.0-beta04] /Users/timothyteh/.gradle/caches/transforms-2/files-2.1/cea45e25bbe77c9713c39e234ccfd7bd/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51
+116            android:required="false" />
+116-->[androidx.window:window:1.0.0-beta04] /Users/timothyteh/.gradle/caches/transforms-2/files-2.1/cea45e25bbe77c9713c39e234ccfd7bd/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
+117
+118        <provider
+118-->[com.google.firebase:firebase-common:20.1.0] /Users/timothyteh/.gradle/caches/transforms-2/files-2.1/b25e52f5739b5665d39d607baa2467f6/jetified-firebase-common-20.1.0/AndroidManifest.xml:26:9-31:39
+119            android:name="com.google.firebase.provider.FirebaseInitProvider"
+119-->[com.google.firebase:firebase-common:20.1.0] /Users/timothyteh/.gradle/caches/transforms-2/files-2.1/b25e52f5739b5665d39d607baa2467f6/jetified-firebase-common-20.1.0/AndroidManifest.xml:27:13-77
+120            android:authorities="io.birdgo.birdgo.firebaseinitprovider"
+120-->[com.google.firebase:firebase-common:20.1.0] /Users/timothyteh/.gradle/caches/transforms-2/files-2.1/b25e52f5739b5665d39d607baa2467f6/jetified-firebase-common-20.1.0/AndroidManifest.xml:28:13-72
+121            android:directBootAware="true"
+121-->[com.google.firebase:firebase-common:20.1.0] /Users/timothyteh/.gradle/caches/transforms-2/files-2.1/b25e52f5739b5665d39d607baa2467f6/jetified-firebase-common-20.1.0/AndroidManifest.xml:29:13-43
+122            android:exported="false"
+122-->[com.google.firebase:firebase-common:20.1.0] /Users/timothyteh/.gradle/caches/transforms-2/files-2.1/b25e52f5739b5665d39d607baa2467f6/jetified-firebase-common-20.1.0/AndroidManifest.xml:30:13-37
+123            android:initOrder="100" /> <!-- Needs to be explicitly declared on P+ -->
+123-->[com.google.firebase:firebase-common:20.1.0] /Users/timothyteh/.gradle/caches/transforms-2/files-2.1/b25e52f5739b5665d39d607baa2467f6/jetified-firebase-common-20.1.0/AndroidManifest.xml:31:13-36
+124        <uses-library
+124-->[com.google.android.gms:play-services-maps:17.0.0] /Users/timothyteh/.gradle/caches/transforms-2/files-2.1/071f32299edee94b84cbdef97955621b/jetified-play-services-maps-17.0.0/AndroidManifest.xml:33:9-35:40
+125            android:name="org.apache.http.legacy"
+125-->[com.google.android.gms:play-services-maps:17.0.0] /Users/timothyteh/.gradle/caches/transforms-2/files-2.1/071f32299edee94b84cbdef97955621b/jetified-play-services-maps-17.0.0/AndroidManifest.xml:34:13-50
+126            android:required="false" />
+126-->[com.google.android.gms:play-services-maps:17.0.0] /Users/timothyteh/.gradle/caches/transforms-2/files-2.1/071f32299edee94b84cbdef97955621b/jetified-play-services-maps-17.0.0/AndroidManifest.xml:35:13-37
+127
+128        <activity
+128-->[com.google.android.gms:play-services-base:18.0.1] /Users/timothyteh/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:9-22:45
+129            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+129-->[com.google.android.gms:play-services-base:18.0.1] /Users/timothyteh/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:19-85
+130            android:exported="false"
+130-->[com.google.android.gms:play-services-base:18.0.1] /Users/timothyteh/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/AndroidManifest.xml:22:19-43
+131            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+131-->[com.google.android.gms:play-services-base:18.0.1] /Users/timothyteh/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/AndroidManifest.xml:21:19-78
+132
+133        <meta-data
+133-->[com.google.android.gms:play-services-basement:18.0.0] /Users/timothyteh/.gradle/caches/transforms-2/files-2.1/4a1e8147c3db656939cfc830651ce63e/jetified-play-services-basement-18.0.0/AndroidManifest.xml:21:9-23:69
+134            android:name="com.google.android.gms.version"
+134-->[com.google.android.gms:play-services-basement:18.0.0] /Users/timothyteh/.gradle/caches/transforms-2/files-2.1/4a1e8147c3db656939cfc830651ce63e/jetified-play-services-basement-18.0.0/AndroidManifest.xml:22:13-58
+135            android:value="@integer/google_play_services_version" />
+135-->[com.google.android.gms:play-services-basement:18.0.0] /Users/timothyteh/.gradle/caches/transforms-2/files-2.1/4a1e8147c3db656939cfc830651ce63e/jetified-play-services-basement-18.0.0/AndroidManifest.xml:23:13-66
+136    </application>
+137
+138</manifest>
