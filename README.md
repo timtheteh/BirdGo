@@ -1,9 +1,8 @@
 <img src = "android\app\src\main\res\mipmap-hdpi\ic_launcher.png" />
 
 
-# BirdGO
-# A Year 1 Software Engineering Project by 
-Bryan Ong, Chua Yong Xuan, Tan Jia Min, Timothy Teh, Lim Xin Yi, Jared Tan
+# BirdGO. A Year 1 Software Engineering Project by:
+### Bryan Ong, Chua Yong Xuan, Tan Jia Min, Timothy Teh, Lim Xin Yi, Jared Tan
 
 
 ## What is BirdGO?
